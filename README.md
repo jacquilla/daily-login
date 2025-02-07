@@ -1,2 +1,2 @@
 # daily-login
-daily
+daily login for dummies
